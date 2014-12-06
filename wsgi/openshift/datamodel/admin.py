@@ -2,7 +2,7 @@
 
 from django.contrib import admin
 from django.contrib.admin import AdminSite
-from tianren.datamodel.models import People, Initiation, Temple, Donation
+from openshift.datamodel.models import People, Initiation, Temple, Donation
 
 
 
