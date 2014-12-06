@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from django.db import models
-from tianren.datamodel.enums import MONTHS, DATES, HOURS, GENDER, ROUTINE_FREQUENCY
+from openshift.datamodel.enums import MONTHS, DATES, HOURS, GENDER, ROUTINE_FREQUENCY
 
 class Temple( models.Model ):
     templeId    = models.AutoField(primary_key=True)
