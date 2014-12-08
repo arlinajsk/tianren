@@ -80,3 +80,20 @@ ROUTINE_FREQUENCY = (
     ( ANNUALY,      'Annualy'),
     ( DAILY,        'Daily'),
 )
+
+LANGUAGES = (
+    ( 'CY',     u'粵語' ),
+    ( 'CG',     u'國語' ),
+    ( 'CT',     u'台語' ),
+    ( 'CM',     u'閩南語' ),
+    ( 'CN',     u'中文' ),
+    ( 'EN',     u'英文' ),        
+    ( 'JP',     u'日文' ),
+    ( 'KN',     u'韓文' ),
+)
+
+TRANSPORT = (
+    ( 'CA',     u'開車' ),
+    ( 'PO',     u'接送' ),    
+)
+
