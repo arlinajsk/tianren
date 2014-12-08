@@ -3,9 +3,9 @@
 from setuptools import setup
 
 setup(
-    name='YourAppName',
+    name='Tian Ren Admin',
     version='1.0',
-    description='OpenShift App',
+    description='OpenShift Web App, powered by django',
     author='Karen Lin',
     author_email='karen.b.lin@gmail.com',
     url='http://www.python.org/sigs/distutils-sig/',
